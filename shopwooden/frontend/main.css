@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+    display: flex;
+    list-style-type: none ;
+    align-items: center;
+    height: 100px;
+}
+.flex-contenner{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.flex-contenner li{
+    margin: 0, 10px;
+}
+li{
+    color: aliceblue;
+}
+ul{
+
+}
+footer{
+    background-color: black;
+}
+h1{
+    color: beige;
+    font-size: 12px;
+}
