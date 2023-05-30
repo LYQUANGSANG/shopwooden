@@ -40,3 +40,8 @@ target
 secrets.yml
 .gradletasknamecache
 .sts4-cache
+.classpath
+.project
+.jsdtscope
+.container
+.name
