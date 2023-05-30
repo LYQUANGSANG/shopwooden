@@ -9,8 +9,6 @@ public class Product {
     private double price;
 
     private String description;
-    
-    private String keyword;
 
     public Product(String id, String name, double price, String description) {
         super();
@@ -18,7 +16,5 @@ public class Product {
         this.name = name;
         this.price = price;
         this.description = description;
-        this.keyword = keyword;
-        
     }
 }
